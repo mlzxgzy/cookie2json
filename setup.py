@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='cookie2json',
-    version='1.0',
+    version='1.1',
     packages=find_packages(),
     url='https://github.com/mlzxgzy/cookie2json/',
     license='MIT',
